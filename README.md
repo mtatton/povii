@@ -1,7 +1,7 @@
 POVII
 =====
 
-POVII is several scripts for turning rendered POV-Ray scenes and POV-Ray
+POVII are several scripts for turning rendered POV-Ray scenes and POV-Ray
 source files into searchable vector indexes.
 
 The current repository contains:
